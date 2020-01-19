@@ -4,10 +4,10 @@ install git bash as your window or operating system
 
 Create simply repository there you will get following code and use:-
 
-Step 2. :- go to your project folder
+Step 2. :- go to your project folder(with using cd command)
 Run command:-
 git init
-git add .
+git add .  // here add dot for select all file from project folder
 git commit -m "message upload jquery"
 // check status 
 git status //optional
