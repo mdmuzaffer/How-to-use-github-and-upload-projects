@@ -1,1 +1,18 @@
 
+Step 1:- First of all install GIT BASH -https://git-scm.com/
+install git bash as your window or operating system
+
+Create simply repository there you will get following code and use:-
+
+Step 2. :- go to your project folder
+Run command:-
+git init
+git add .
+git commit -m "message upload jquery"
+// check status 
+git status //optional
+git remote add origin https://github.com/mdmuzaffer/test.git //get url from repository 
+git push -u origin master
+Add account details:-
+username: mdmuzaffer
+password: your added password
