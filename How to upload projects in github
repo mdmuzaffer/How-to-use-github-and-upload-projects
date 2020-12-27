@@ -12,7 +12,13 @@ git commit -m "message upload jquery"
 // check status 
 git status //optional
 git remote add origin https://github.com/mdmuzaffer/test.git //get url from repository 
+OR
+git remote set-url origin https://github.com/mdmuzaffer/test.git //get url from repository 
+
 git push -u origin master
+OR
+git push -u origin
+
 Add account details:-
 username: mdmuzaffer
 password: your added password
